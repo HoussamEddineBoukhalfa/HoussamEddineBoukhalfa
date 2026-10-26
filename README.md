@@ -1,19 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Houssam Eddine Boukhalfa
-================================================================================================================================================
+# Hi, I'm Houssam Eddine Boukhalfa <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="waving hand">
 
-Embedded System Developer, Full Stack Developer and AI Student
---------------------------------------------------------------
+### Machine learning researcher · LLM post-training with RL · Verifiable rewards · Agentic AI
 
-As an adept embedded system developer, my expertise lies in firmware programming using C/C++, with a strong focus on the integration of software with microcontroller-based systems. In the realm of full stack development, my skills are demonstrated through proficiency in JavaScript, React for front-end architecture, coupled with Django for robust back-end services, and MongoDB for sophisticated database solutions. Concurrently, I am an AI scholar, focusing on Python and its application in machine learning, poised to explore the complexities of neural networks as my studies advance. My dedication to these fields is rooted in a steadfast commitment to technological excellence and a relentless pursuit of cutting-edge innovation.
+I train language models with reinforcement learning against checkers that can prove an answer right or wrong, and study what the models actually learn from them. I'm finishing an **M2 in Data Science (TRIED) at Université Paris-Saclay**, after a five-year engineering degree in AI and Data Science at **ENSIA** (Algiers).
 
-*   🌍  I'm based in Algiers city
-*   ✉️  You can contact me at [boukhalfahoussameddine@gmail.com](mailto:boukhalfahoussameddine@gmail.com)
-*   🧠  I'm learning MERN (MongoDB, Express.js, React, Node.js) full stack development, enhancing my capabilities in building scalable web applications. Simultaneously, I am delving into the fundamentals of Machine Learning, aiming to integrate intelligent data-driven features into my development projects.
-*   🤝  I'm open to collaborating on AI-driven projects that push the boundaries of innovation. With a solid foundation in mobile and full-stack development and a burgeoning passion for machine learning, I look to contribute to initiatives that are at the intersection of intelligent computing and practical applications. Whether it's through sophisticated data analysis, predictive modeling, or the creation of smart user experiences, my goal is to collaborate on projects that harness the transformative power of AI.
-*   ⚡  Beyond the bits and bytes, I am a lifelong learner and tech enthusiast who believes in the collaborative power of technology to solve complex problems. I'm always on the lookout for opportunities to merge creativity with technology, aiming to make a lasting impact in the tech space.
-*   ### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-                    </p>
-                    
-                 
+- 🔭 **Looking for:** a 6-month research internship from late March 2027, with an interest in continuing to a PhD.
+- 🌍 **Based in:** Paris-Saclay, France
+- 🌐 **Website:** [houssameddineboukhalfa.github.io](https://houssameddineboukhalfa.github.io)
+- 📫 **Contact:** b.houssameddine19@gmail.com · [LinkedIn](https://www.linkedin.com/in/houssam-eddine-boukhalfa-873636287/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIDN__oAAAAJ)
+
+---
+
+### 🔬 Research interests
+
+`RL with verifiable rewards (RLVR)` · `LLM reasoning` · `World models & planning` · `LLM agents & tool use` · `Efficient training & inference` · `Arabic & multilingual LLMs`
+
+### 📄 Publications
+
+- **Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs**
+  O. F. Zouak, **H. E. Boukhalfa**, S. Lakehal, S. Katiyar, S. Nefti-Meziani · *EMNLP 2026 (Findings)*
+  [arXiv](https://arxiv.org/abs/2610.02444) · [Code](https://github.com/ce-rlvr/SymCE)
+  SFT made Qwen3-4B lose the ability to recognise true theorems (0.27 → 0.00); RL with a verifier reward repaired it (0.66), and the 4B model beat every evaluated 7B open math specialist.
+
+- **Crafting Culturally Aligned Narratives: Large Language Models for Arabic Children's Story Generation**
+  **H. E. Boukhalfa**, S. Mani, L. Said Chikh · *Muslims in ML Workshop, NeurIPS 2025*
+  [PDF](https://openreview.net/pdf?id=C3Rdf47byE) · [Demo](https://drive.google.com/file/d/1eW0UTpa3X4PYmJvGhulYQFaqx5kaaqMO/view)
+
+📘 Thesis: *CE-RLVR: Internalizing Symbolic Reasoning in LLMs through Counterexample-Guided RLVR* · [Thesis](https://drive.google.com/file/d/1p3is1mPWlzgXIssRJzaPwagVkyx2EyqL/view?usp=sharing) · [Defense video](https://www.youtube.com/watch?v=bSE1iEER_-Q)
+
+### 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| R&D Engineer, AI Team Lead: trained AQL-42B, an Arabic MoE LLM (79.17 vs 50.48 on the Open Arabic LLM Leaderboard v2) | Nojoom.AI | 2025 – 2026 |
+| Research project: LLM world models and reasoning with RL and symbolic verifiers (96.3% next-state accuracy on unseen domains) | ENSIA × University of Birmingham | 2025 – 2026 |
+| Research intern: multimodal pipeline to detect influence operations on TikTok | LIX, École Polytechnique | 2025 – 2026 |
+
+### 🛠 Selected projects
+
+- **[SymCE](https://github.com/ce-rlvr/SymCE)**: counterexample generation with per-theorem symbolic verifiers and RLVR (EMNLP 2026 Findings).
+- **[RL for Autonomous Racing](https://github.com/HoussamEddineBoukhalfa/RL-for-Autonomous-Racing-)**: a DQN driving agent in simulation, from environment design to reward design.
+- **[Quality Takeoffs](https://qualitytakeoffs.com/)**: AI agents and computer vision that read technical drawings and generate takeoff reports.
+- **Roman mosaic restoration**: a GAN with a Vision Transformer and contextual attention ([preprint](https://www.researchgate.net/publication/391738904_Semantic-Aware_Generative_Adversarial_Networks_for_Enhanced_Roman_Mosaic_Restoration)).
+
+### 🧰 Tools
+
+**ML & LLMs**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0A66C2)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C)
+
+**Systems & GPU**
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-4B32C3)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+**Also used**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
