@@ -1,8 +1,8 @@
 # Hi, I'm Houssam Eddine Boukhalfa <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="waving hand">
 
-### Machine learning researcher · LLM post-training with RL · Verifiable rewards · Agentic AI
+### Machine learning researcher · LLM post-training · Verifiable rewards · Agentic AI
 
-I train language models with reinforcement learning against checkers that can prove an answer right or wrong, and study what the models actually learn from them. I'm finishing an **M2 in Data Science (TRIED) at Université Paris-Saclay**, after a five-year engineering degree in AI and Data Science at **ENSIA** (Algiers).
+I train language models against checkers that can prove an answer right or wrong, and study what the models actually learn from them. I'm finishing an **M2 in Data Science (TRIED) at Université Paris-Saclay**, after a five-year engineering degree in AI and Data Science at **ENSIA** (Algiers).
 
 - 🔭 **Looking for:** a 6-month research internship from late March 2027, with an interest in continuing to a PhD.
 - 🌍 **Based in:** Paris, France
