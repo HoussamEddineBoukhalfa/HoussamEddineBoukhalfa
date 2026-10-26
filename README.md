@@ -5,7 +5,7 @@
 I train language models with reinforcement learning against checkers that can prove an answer right or wrong, and study what the models actually learn from them. I'm finishing an **M2 in Data Science (TRIED) at Université Paris-Saclay**, after a five-year engineering degree in AI and Data Science at **ENSIA** (Algiers).
 
 - 🔭 **Looking for:** a 6-month research internship from late March 2027, with an interest in continuing to a PhD.
-- 🌍 **Based in:** Paris-Saclay, France
+- 🌍 **Based in:** Paris, France
 - 🌐 **Website:** [houssameddineboukhalfa.github.io](https://houssameddineboukhalfa.github.io)
 - 📫 **Contact:** b.houssameddine19@gmail.com · [LinkedIn](https://www.linkedin.com/in/houssam-eddine-boukhalfa-873636287/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIDN__oAAAAJ)
 
